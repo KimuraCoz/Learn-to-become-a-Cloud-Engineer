@@ -1,4 +1,4 @@
-# <center> Belajar menuju menjadi Cloud Engineer dan Cloud Architecture
+# <center> My Diary
 
 Jun 24, 2026 sebagai awalan untuk pembelajaranku. <br>
 Aku punya impian menuju ke Jepang tapi masih belum tau. <br>
