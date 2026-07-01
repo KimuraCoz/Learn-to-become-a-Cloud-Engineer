@@ -1,0 +1,7 @@
+# git init
+Melacak dan kelola .git
+
+main = default brach
+
+# git status
+beritahu posisi, bagian belum commit, dan file yang tidak dilacak
