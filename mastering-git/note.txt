@@ -21,9 +21,13 @@ melihat riwayat git kita dari ID commit/hash, penulis, waktu, dan pesan commit.
 Mengalihkan ke commit yang lebih lama dan memulihkan nya. Cek hash di git log.
 
 Contohnya pada commit terakhir :
-commit 2a689ed5ee87a362632a404198afc2c9d4a07e07
+commit a6bcf8394d1fb85517a200f27ea575260f304ce1 (HEAD)
 Author: KimuraCoz <zulmichyapratama@gmail.com>
-Date:   Wed Jul 1 16:49:45 2026 +0800
+Date:   Wed Jul 1 16:57:10 2026 +0800
 
-    Add readme.md file
-Aku akan memindahkan melalui git checkout.
+    Add hello and test files
+Aku akan memindahkan melalui git checkout untuk kembali ke commit lama.
+git checkout sangat bagus jika ada error atau merge confilc. Jadi kita bisa kembalikan melalui checkout.
+
+# git checkout master/main/origin
+Dari git checkout (hash) dan ingin kembali ke commit master. 
