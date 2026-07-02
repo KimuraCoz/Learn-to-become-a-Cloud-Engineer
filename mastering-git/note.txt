@@ -5,3 +5,25 @@ main = default brach
 
 # git status
 beritahu posisi, bagian belum commit, dan file yang tidak dilacak
+
+Commiting = snapshot, checkpoint, simpan hasil
+# git commit -m 'Add readme.md file'
+(-m = message/pesan)
+
+# git add .
+beritahu git untuk menambahkan semua file yang dibuat, dimodifikasi, atau dihapus ke pelacakan git. (intinya seperti Ctrl+A)
+# git commit -m 'Add hello and test files' (tersimpan semua)
+
+# git log 
+melihat riwayat git kita dari ID commit/hash, penulis, waktu, dan pesan commit.
+
+# git checkout 2a689ed5ee87a362632a404198afc2c9d4a07e07
+Mengalihkan ke commit yang lebih lama dan memulihkan nya. Cek hash di git log.
+
+Contohnya pada commit terakhir :
+commit 2a689ed5ee87a362632a404198afc2c9d4a07e07
+Author: KimuraCoz <zulmichyapratama@gmail.com>
+Date:   Wed Jul 1 16:49:45 2026 +0800
+
+    Add readme.md file
+Aku akan memindahkan melalui git checkout.
