@@ -31,3 +31,5 @@ git checkout sangat bagus jika ada error atau merge confilc. Jadi kita bisa kemb
 
 # git checkout master/main/origin
 Dari git checkout (hash) dan ingin kembali ke commit master. 
+
+
