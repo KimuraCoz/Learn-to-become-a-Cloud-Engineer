@@ -1,5 +1,6 @@
 # git init
-Melacak dan kelola .git
+membuat dari folder project offline biasa menjadi repo yang terkoneksi dengan git
+Melacak dan kelola .git 
 
 main = default brach
 
@@ -32,4 +33,15 @@ git checkout sangat bagus jika ada error atau merge confilc. Jadi kita bisa kemb
 # git checkout master/main/origin
 Dari git checkout (hash) dan ingin kembali ke commit master. 
 
+perbedaan Git dengan Github:
+Git adalah alat untuk melacak perubahan, Github adalah platform Cloud yang menyimpan repository secara online dan berkolaborasi dengan orang lain.
+
+2 type of repository: local repository and remote repository
+local repository --> repo di PC atau laptop sendiri. 
+remote repository --> repo project yang disimpan di server seperti Github, Gitlab, and Bitbucket. Berbagi code antar kolaborator.
+
+# git remote add something_else https://github.com/KimuraCoz/Learn-to-become-a-Cloud-Engineer 
+menambahkan repo khusus kita ke repo project tim kita. 
+# git push -u origin something_else
+(origin) repo utama, (something_else) repo kita
 
