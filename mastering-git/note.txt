@@ -45,3 +45,7 @@ menambahkan repo khusus kita ke repo project tim kita.
 # git push -u origin something_else
 (origin) repo utama, (something_else) repo kita
 
+Cara pindah-pindah branch:
+1. git branch -m something_else
+2. git config --global user.email "zulmichyapratama@gmail.com" git config --global user.name "KimuraCoz"
+3. ~Selesai~
