@@ -49,3 +49,7 @@ Cara pindah-pindah branch:
 1. git branch -m something_else
 2. git config --global user.email "zulmichyapratama@gmail.com" git config --global user.name "KimuraCoz"
 3. ~Selesai~
+
+perbedaan checkout dengan pindah branch:
+checkout itu memindahkan HEAD dari branch sekarang "add note" ke branch sebelumnya yaitu branch "OKE".
+branch itu memasuki branch orang lain. Branch ku adalah master, branch teman adalah something_else.
